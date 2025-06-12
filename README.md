@@ -164,6 +164,7 @@ A curated list of awesome resources for Graal, GraalVM, Truffle and related topi
     - [An example Clojure CLI HTTP/S client using GraalVM native image](https://github.com/taylorwood/clojurl)
     - [A simple native HTTP server with GraalVM](https://melix.github.io/blog/2019/03/simple-http-server-graal.html)
     - [Example of Akka HTTP server compiled with GraalVM native-image](https://github.com/vmencik/akka-graal-native)
+    - [Example of CLI app compiled with GraalVM native-image](https://github.com/Hakky54/certificate-ripper)
     - [GraalVM Native Image HTTPS Support](https://blog.taylorwood.io/2018/10/04/graalvm-https.html)
     - [A 7MB native-image Java app that runs in 30ms and uses only 4MB of RAM!](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/a7mbnative-imagejavaappthatrunsin30msandusesonly4mbofram)
 
